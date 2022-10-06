@@ -10,7 +10,7 @@ header {
     height: 100vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.15)),
         /* url("../images/taj.jpg"); */
-        url(/image/img2.jpg);
+        url('/image/img2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
